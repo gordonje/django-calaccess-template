@@ -1,0 +1,2 @@
+django-calaccess-raw-data==1.4.0rc6
+psycopg2
